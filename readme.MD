@@ -1,4 +1,4 @@
-# oe-dieren
+# oe-zoo-manager
 We maken een webpagina die toont welke personen verantwoordelijk zijn voor bepaalde dieren in een dierentuin.
 
 ## Voor je begint ...
